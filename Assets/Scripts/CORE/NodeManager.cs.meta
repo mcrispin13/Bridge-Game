@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 99fb0d607eb9e154293fa46b8d7e5cec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pylonPrefab: {fileID: 5288952588118228340, guid: 245b254d92ccd44ada587945c8e1cdf2,
+      type: 3}
+  - cablePrefab1: {fileID: 1987954955918683580, guid: 2cc0910d045f1f64eba37fbfd1fc00e1,
+      type: 3}
+  - cablePrefab2: {fileID: 1987954955918683580, guid: a8653eca6ef34fa448dd764c86c0e7b0,
+      type: 3}
+  - cablePrefab3: {instanceID: 0}
+  - overBudgetText: {instanceID: 0}
+  - ObjectArray: {instanceID: 0}
+  - construction: {instanceID: 0}
+  - cableBuild: {instanceID: 0}
+  - pylonThud: {instanceID: 0}
+  - budgetText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

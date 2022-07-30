@@ -1,0 +1,1217 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/mcrispin/Unity Projects/Bridge Game
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49804
+Successfully changed project path to: /Users/mcrispin/Unity Projects/Bridge Game
+/Users/mcrispin/Unity Projects/Bridge Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 241.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mcrispin/Unity Projects/Bridge Game/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-05-13 19:04:51.506 Unity[1465:22627] Color LCD preferred device: Intel(R) Iris(TM) Graphics 550 (low power)
+2021-05-13 19:04:51.506 Unity[1465:22627] Metal devices available: 1
+2021-05-13 19:04:51.506 Unity[1465:22627] 0: Intel(R) Iris(TM) Graphics 550 (low power)
+2021-05-13 19:04:51.506 Unity[1465:22627] Using device Intel(R) Iris(TM) Graphics 550 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 550
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56465
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.6f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002892 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 301.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.139 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.104817 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.606 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.15 seconds
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2985 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 291.0 MB.
+System memory in use after: 291.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3476.
+Total: 5.799679 ms (FindLiveObjects: 0.453154 ms CreateObjectMapping: 0.215567 ms MarkObjects: 5.025224 ms  DeleteObjects: 0.104282 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/RopeBridge 1.prefab
+  artifactKey: Guid(dfe123afc130ebc4a9d8135b791f3f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RopeBridge 1.prefab using Guid(dfe123afc130ebc4a9d8135b791f3f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7fd71971f0487a54bb71e3e1a6a2a28') in 2.648527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Prefabs/Pylon6.prefab
+  artifactKey: Guid(c1ee3a31254c04147ac19657ff16f66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon6.prefab using Guid(c1ee3a31254c04147ac19657ff16f66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66dd8a7dc539e14ed06f9c4cbcdf5748') in 0.013314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Prefabs/UI+explosion .prefab
+  artifactKey: Guid(0653d0e4f65514147b331ce0dfacf7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI+explosion .prefab using Guid(0653d0e4f65514147b331ce0dfacf7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782e03f90c9756da999bc231f3f05fb8') in 0.075165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013817 seconds.
+  path: Assets/Prefabs/RopeBridge.prefab
+  artifactKey: Guid(7bece105aed519241af59ce4f17ee8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RopeBridge.prefab using Guid(7bece105aed519241af59ce4f17ee8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8e15e954fedfcb2607825ebb850651') in 0.053831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Prefabs/Cable 2.prefab
+  artifactKey: Guid(a8653eca6ef34fa448dd764c86c0e7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cable 2.prefab using Guid(a8653eca6ef34fa448dd764c86c0e7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6053a8766e3dbdb0816ff345dd0c0fa0') in 0.031354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Prefabs/carRoot.prefab
+  artifactKey: Guid(d98a78989df684755aae994dc531ad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/carRoot.prefab using Guid(d98a78989df684755aae994dc531ad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad39df53617cfad50bf859948753dce') in 0.046203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007809 seconds.
+  path: Assets/Prefabs/Cable 1.prefab
+  artifactKey: Guid(2cc0910d045f1f64eba37fbfd1fc00e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cable 1.prefab using Guid(2cc0910d045f1f64eba37fbfd1fc00e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dbaf0d030e5280a80b13e1cfbc26894') in 0.027954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Prefabs/Node.prefab
+  artifactKey: Guid(522371b304eeaa74f91096aab0ece88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Node.prefab using Guid(522371b304eeaa74f91096aab0ece88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3c4f8491ac9f46cf0ff6993934c219') in 0.013557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Prefabs/UI.prefab
+  artifactKey: Guid(78c32752ec9acda44a4b905e04703a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI.prefab using Guid(78c32752ec9acda44a4b905e04703a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d08ddfb37d8253c44516e7eabe3401') in 0.456720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6003cd17eadc19bf41904514a1e08f4') in 0.037966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Prefabs/UI (Hills.prefab
+  artifactKey: Guid(3fe14b8133bef3840af66c75b0218f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI (Hills.prefab using Guid(3fe14b8133bef3840af66c75b0218f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07cc471439e61951d90bc0dd994c6efd') in 0.093786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Prefabs/PylonCube.prefab
+  artifactKey: Guid(4e0c52271a3ff4e98a3ca16998d5e5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PylonCube.prefab using Guid(4e0c52271a3ff4e98a3ca16998d5e5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff9969699c76db7dc3a28789f572dc7') in 0.022395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Prefabs/All UI.prefab
+  artifactKey: Guid(d1e8346b442b3dd4da67d6d4520d0ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/All UI.prefab using Guid(d1e8346b442b3dd4da67d6d4520d0ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fbd32196165e72e81ffd378da764d28') in 0.097542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Prefabs/CableNode 1.prefab
+  artifactKey: Guid(194a1ef82ed931b49bf22e9d32596cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CableNode 1.prefab using Guid(194a1ef82ed931b49bf22e9d32596cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9dc46fbebda2b8cc7e9e35c07fb2f94') in 0.011145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(c9f6062fc0bd240c1a19ee779bb36bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(c9f6062fc0bd240c1a19ee779bb36bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d75deec05541c8f8eaf6257b7680bd5') in 0.019154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Prefabs/NewManager.prefab
+  artifactKey: Guid(2f102fdb2342eaf49a1dd6e4a1d051cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NewManager.prefab using Guid(2f102fdb2342eaf49a1dd6e4a1d051cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904f7fb1297b4ed7cc07ea1205acab56') in 0.053509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Prefabs/Cable 3.prefab
+  artifactKey: Guid(d7d252fbe964f5641a0d2d1c5bc8b9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cable 3.prefab using Guid(d7d252fbe964f5641a0d2d1c5bc8b9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7f5c42ab84fef8003d6fb2bfd2ad70') in 0.015209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001066 seconds.
+  path: Assets/Prefabs/Pylons2.prefab
+  artifactKey: Guid(245b254d92ccd44ada587945c8e1cdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylons2.prefab using Guid(245b254d92ccd44ada587945c8e1cdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031bfc3b19ef45c7e35e06432623f41d') in 0.040711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(98969fc400ac945638ad626e8db1dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(98969fc400ac945638ad626e8db1dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b87946a807c392ce5779a8ec07e1360') in 0.061216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Prefabs/CableNode.prefab
+  artifactKey: Guid(6a923de0dcc7c0b479e8b07b74ed5a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CableNode.prefab using Guid(6a923de0dcc7c0b479e8b07b74ed5a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75873cbba96ed5515d57d4ef084c460a') in 0.010197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/Prefabs/ActualManager.prefab
+  artifactKey: Guid(5151631570263c644b682ddfbb5ba4ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ActualManager.prefab using Guid(5151631570263c644b682ddfbb5ba4ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaca2173e3fef90cdf898121a21498d7') in 0.103389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(75238060fb782469d866ede211d490c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(75238060fb782469d866ede211d490c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd8c4bc2de0fc06e4ca6e545ba1efb5') in 0.091563 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.830 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 299.2 MB.
+System memory in use after: 299.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3491.
+Total: 8.024905 ms (FindLiveObjects: 0.340990 ms CreateObjectMapping: 0.153433 ms MarkObjects: 7.478636 ms  DeleteObjects: 0.049509 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.217 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 299.6 MB.
+System memory in use after: 299.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3494.
+Total: 4.774261 ms (FindLiveObjects: 0.518723 ms CreateObjectMapping: 0.263540 ms MarkObjects: 3.936710 ms  DeleteObjects: 0.052160 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010484 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.886 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 300.0 MB.
+System memory in use after: 300.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3497.
+Total: 2.773690 ms (FindLiveObjects: 0.280562 ms CreateObjectMapping: 0.161768 ms MarkObjects: 2.310577 ms  DeleteObjects: 0.019664 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.884 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 300.3 MB.
+System memory in use after: 300.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3500.
+Total: 2.582102 ms (FindLiveObjects: 0.249613 ms CreateObjectMapping: 0.149774 ms MarkObjects: 2.161197 ms  DeleteObjects: 0.020274 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.404 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 300.6 MB.
+System memory in use after: 300.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3503.
+Total: 2.425627 ms (FindLiveObjects: 0.286049 ms CreateObjectMapping: 0.149552 ms MarkObjects: 1.971689 ms  DeleteObjects: 0.017445 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.594 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 300.9 MB.
+System memory in use after: 301.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3506.
+Total: 4.543045 ms (FindLiveObjects: 0.524025 ms CreateObjectMapping: 0.267369 ms MarkObjects: 3.721366 ms  DeleteObjects: 0.028665 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 301.3 MB.
+System memory in use after: 301.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3509.
+Total: 2.901711 ms (FindLiveObjects: 0.254483 ms CreateObjectMapping: 0.140428 ms MarkObjects: 2.483951 ms  DeleteObjects: 0.021524 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004037 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.693 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 301.6 MB.
+System memory in use after: 301.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3512.
+Total: 2.603178 ms (FindLiveObjects: 0.273960 ms CreateObjectMapping: 0.167814 ms MarkObjects: 2.130358 ms  DeleteObjects: 0.028908 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 301.9 MB.
+System memory in use after: 302.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3515.
+Total: 4.651249 ms (FindLiveObjects: 0.284961 ms CreateObjectMapping: 0.162052 ms MarkObjects: 4.178373 ms  DeleteObjects: 0.024487 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004445 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.763 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 302.3 MB.
+System memory in use after: 302.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3518.
+Total: 2.940149 ms (FindLiveObjects: 0.378207 ms CreateObjectMapping: 0.196475 ms MarkObjects: 2.319348 ms  DeleteObjects: 0.044671 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004735 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.439 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 302.6 MB.
+System memory in use after: 302.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3521.
+Total: 3.230091 ms (FindLiveObjects: 0.261036 ms CreateObjectMapping: 0.156507 ms MarkObjects: 2.787959 ms  DeleteObjects: 0.023144 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015476 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.679 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 302.9 MB.
+System memory in use after: 303.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 2.548147 ms (FindLiveObjects: 0.272387 ms CreateObjectMapping: 0.149780 ms MarkObjects: 2.093686 ms  DeleteObjects: 0.031142 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004670 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.919 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 303.3 MB.
+System memory in use after: 303.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3527.
+Total: 2.635283 ms (FindLiveObjects: 0.267094 ms CreateObjectMapping: 0.162660 ms MarkObjects: 2.184594 ms  DeleteObjects: 0.019814 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 303.6 MB.
+System memory in use after: 303.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3530.
+Total: 3.197987 ms (FindLiveObjects: 0.345861 ms CreateObjectMapping: 0.433229 ms MarkObjects: 2.394073 ms  DeleteObjects: 0.023251 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2079.689360 seconds.
+  path: Assets/Prefabs/Pylon3 1.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3 1.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b9aa860ae032cc86005bdab213138c') in 0.175821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.133863 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c0451146a311afdf04e9ddd7dcce77') in 0.041243 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 304.0 MB.
+System memory in use after: 304.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3534.
+Total: 2.713350 ms (FindLiveObjects: 0.287220 ms CreateObjectMapping: 0.163209 ms MarkObjects: 2.241872 ms  DeleteObjects: 0.019911 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.551764 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef7141f9893b2ff31a42d3bf7b4b821') in 0.103386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 158.218233 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17b2e321c82f21b4d40b2e19c9da32e') in 0.026876 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008803 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.233 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 304.4 MB.
+System memory in use after: 304.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3538.
+Total: 3.633279 ms (FindLiveObjects: 0.398151 ms CreateObjectMapping: 0.252025 ms MarkObjects: 2.949027 ms  DeleteObjects: 0.032427 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 448.311042 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de39ae18006d4e56168a9ba60b0d1e4') in 0.155260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.683015 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba177d296424b44166b97aafb9bdc2a') in 0.029427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.748007 seconds.
+  path: Assets/Scripts/Utilities
+  artifactKey: Guid(6862d1ecc36b1ec40a625e7ecb4af435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utilities using Guid(6862d1ecc36b1ec40a625e7ecb4af435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd489e933fd20ec173806fe875f1996') in 0.003497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.908284 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878c7ab16f460da69a2b5cc9d9605b76') in 0.031478 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016281 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.712 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 304.8 MB.
+System memory in use after: 305.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3542.
+Total: 5.627164 ms (FindLiveObjects: 0.660125 ms CreateObjectMapping: 0.651630 ms MarkObjects: 4.281897 ms  DeleteObjects: 0.031102 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.645280 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d85a876c336591c40365cd3e0a0918') in 0.181800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.586553 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60ee1084cd105734a26bccea9d65140') in 0.049140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.469558 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c543af8c4d33f49bdcec3e9e7cbf05e') in 0.027144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.949884 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124e459ae7b41ecaade58d65308308cd') in 0.015955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.815245 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(fa54db91b959b4c2ebbab810dbff72a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e962296f49198b67115e17afef15ae') in 0.023146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 204.756619 seconds.
+  path: Assets/Prefabs/pivot.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pivot.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bcc2294ba89e00080785db807c62d0') in 0.069367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.406807 seconds.
+  path: Assets/Prefabs/Pylon.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e24183d445d5adfb515c5802e7d8cd5') in 0.021203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.437947 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f76791fa4c4f0b254792c0007333c9f') in 0.019056 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009231 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.428 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 305.3 MB.
+System memory in use after: 305.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3546.
+Total: 6.882304 ms (FindLiveObjects: 0.635638 ms CreateObjectMapping: 0.273947 ms MarkObjects: 5.823407 ms  DeleteObjects: 0.147513 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.087188 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195e0af50b266ae214df293c9e60fb6c') in 0.132940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.387875 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449e88532b75d504dd28f2f3ce1af7a0') in 0.026192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.701315 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec9db9b4ed9ebd88e560b046800f4fb') in 0.023822 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 305.9 MB.
+System memory in use after: 306.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3550.
+Total: 15.348553 ms (FindLiveObjects: 0.539308 ms CreateObjectMapping: 0.228614 ms MarkObjects: 14.508413 ms  DeleteObjects: 0.070483 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.657 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 306.2 MB.
+System memory in use after: 306.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3553.
+Total: 2.550913 ms (FindLiveObjects: 0.367019 ms CreateObjectMapping: 0.157111 ms MarkObjects: 2.001273 ms  DeleteObjects: 0.024310 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 398.505731 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c599b3060d45c3062ae80d20d5094af4') in 0.153383 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011689 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.056 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 306.6 MB.
+System memory in use after: 306.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3557.
+Total: 2.739443 ms (FindLiveObjects: 0.341250 ms CreateObjectMapping: 0.190328 ms MarkObjects: 2.188077 ms  DeleteObjects: 0.018626 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 394.914782 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(1a4a8f0c1677242b48255d0ebaa5f069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb5334d545f2eee54f3a8eae6d8418c') in 0.122359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 163.003506 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1bd0f6547ad5adc093da5b07675572') in 0.015029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.527744 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0883933762fe888fdc801a4e7e4d483e') in 0.015132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.552081 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7525b578ecf78ccc75dba22bb6adc3ea') in 0.005336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.463384 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d223e290d18fdba9857dc9531605cad') in 0.005538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.166469 seconds.
+  path: Assets/Prefabs/Pivot 1.prefab
+  artifactKey: Guid(99fac80de35114ae3801094934699780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot 1.prefab using Guid(99fac80de35114ae3801094934699780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c7534e56bcacacac0c216e39f3600f') in 0.016948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.822253 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(99fac80de35114ae3801094934699780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(99fac80de35114ae3801094934699780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a79ac6d6b6ded738af882efa621f2a7') in 0.014426 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.653 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 307.0 MB.
+System memory in use after: 307.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3561.
+Total: 2.438925 ms (FindLiveObjects: 0.296806 ms CreateObjectMapping: 0.146219 ms MarkObjects: 1.977979 ms  DeleteObjects: 0.016764 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.062721 seconds.
+  path: Assets/Prefabs/Pylon3.prefab
+  artifactKey: Guid(99fac80de35114ae3801094934699780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon3.prefab using Guid(99fac80de35114ae3801094934699780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c5a631684fea836baf69659d90f4b9') in 0.087636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.008929 seconds.
+  path: Assets/Ricardo/Environment.prefab
+  artifactKey: Guid(78c97d0310f197940a35b7c2d753e5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ricardo/Environment.prefab using Guid(78c97d0310f197940a35b7c2d753e5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62bb13fb8eace56812137061f6ba06a2') in 2.404052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Ricardo/UI.prefab
+  artifactKey: Guid(ee524e0aeca89fe4fb72f1eab67b5756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ricardo/UI.prefab using Guid(ee524e0aeca89fe4fb72f1eab67b5756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7a4cd315b542babf937120aad1c4a2') in 0.234432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Ricardo/Table.fbx
+  artifactKey: Guid(6eb52f468431f714a873b3084b3434d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ricardo/Table.fbx using Guid(6eb52f468431f714a873b3084b3434d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1aa097d0346b9f7a65a233a413d8350') in 0.951514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Ricardo/Table.prefab
+  artifactKey: Guid(328ba0a13fa5a0641abe48e4d03031ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ricardo/Table.prefab using Guid(328ba0a13fa5a0641abe48e4d03031ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c24e8a2c3436990be9c0110898d9932') in 0.025855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Ricardo/SM_Veh_Truck_01.prefab
+  artifactKey: Guid(9c508051833b2e3448fe013d98a1a2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ricardo/SM_Veh_Truck_01.prefab using Guid(9c508051833b2e3448fe013d98a1a2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1fa17e2db3d976daa210dbe5f99fd9') in 0.117720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.240264 seconds.
+  path: Assets/Prefabs/pivot.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pivot.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bbf969d15c27b90650cecb0d6da145f') in 0.018546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.242718 seconds.
+  path: Assets/Prefabs/pivot.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pivot.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5cabbd6a0c684b3299a324f1235125a') in 0.013530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.500809 seconds.
+  path: Assets/Prefabs/pivot.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/pivot.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42000e64abe9e0e3c50819155f388efb') in 0.016827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.833085 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af6f3a22250d534db9d041b1b73580c8') in 0.018486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.885966 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5b742cb746375e637dbf126b5286a6') in 0.028230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.433000 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53af817ab7dc89e49a0dbaa82c1d8eb0') in 0.024167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.407521 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5ad1b27606b09a2de570ad30952954') in 0.028019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.861399 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651f2192bcd78d069bbfbca515077302') in 0.028795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.837747 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91709dd6eb20f971a1a0481d32d3bc90') in 0.022794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.030173 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa3520489a3e2fce3f52446e1a9f03d') in 0.025875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.377702 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ad2e1a998184ff1e6b54a5fa8d3ff8') in 0.030660 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 312.9 MB.
+System memory in use after: 313.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3601.
+Total: 2.871396 ms (FindLiveObjects: 0.321869 ms CreateObjectMapping: 0.191323 ms MarkObjects: 2.313865 ms  DeleteObjects: 0.042965 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.035899 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfdda68d4abb1728ffc1507c29859d0') in 0.113289 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.488 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 313.2 MB.
+System memory in use after: 313.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3605.
+Total: 2.729023 ms (FindLiveObjects: 0.307471 ms CreateObjectMapping: 0.158599 ms MarkObjects: 2.241646 ms  DeleteObjects: 0.020142 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.130046 seconds.
+  path: Assets/Prefabs/Pylon4.prefab
+  artifactKey: Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon4.prefab using Guid(725528937afda42f6af8586d20909b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098da58efe0e9586b427c3e2e622529d') in 0.082892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.034944 seconds.
+  path: Assets/Scripts/Utilities/Gizmo.cs
+  artifactKey: Guid(7d57e0777bae84520b2acd1e7f24a91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utilities/Gizmo.cs using Guid(7d57e0777bae84520b2acd1e7f24a91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f07e6b817e49c4887d61fdbbd4431d0') in 4.153252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.261637 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(75238060fb782469d866ede211d490c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(75238060fb782469d866ede211d490c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f043f136030b7047b12882a4e61c79') in 0.015495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.340948 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044c882e6ceda3b7ad7000fcf469df62') in 0.013604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.068829 seconds.
+  path: Assets/Prefabs/Pyl.prefab
+  artifactKey: Guid(75238060fb782469d866ede211d490c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pyl.prefab using Guid(75238060fb782469d866ede211d490c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f56ef5b81f95613abab8570b1d69ef') in 0.043871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001033 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8eb9d1e471d7aa21daab07602784ca') in 0.015955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.662894 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a44d3af1328e6878ad54c90bb36d6bb') in 0.025177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.292423 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bd0ef10db21c492f68429f9308a611') in 0.016360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.472438 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028bef66b9c47f358877a28478cfe9f7') in 0.015399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 300.431671 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(1de03f49c8c824b6993521b8bc8d8c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(1de03f49c8c824b6993521b8bc8d8c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76816ba288ff8b85c5887657f590d946') in 0.015841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.598466 seconds.
+  path: Assets/Prefabs/Pylon.prefab
+  artifactKey: Guid(c1ee3a31254c04147ac19657ff16f66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon.prefab using Guid(c1ee3a31254c04147ac19657ff16f66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90b99392937744f9455dfb19c12f935') in 0.035862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(1de03f49c8c824b6993521b8bc8d8c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(1de03f49c8c824b6993521b8bc8d8c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20605b875e404df7579659acba4dace9') in 0.017402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.571136 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(cc218f7a9a7c74ff9bb792e63e246b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(cc218f7a9a7c74ff9bb792e63e246b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8505e6d0a590fea4709cf91341d24f98') in 0.009206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.633768 seconds.
+  path: Assets/Prefabs/Pylon6.prefab
+  artifactKey: Guid(1de03f49c8c824b6993521b8bc8d8c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon6.prefab using Guid(1de03f49c8c824b6993521b8bc8d8c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbba2bd37b60bcd4fd93f0890a9dcfe4') in 0.016809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 169.658945 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd411aefcddfbcba6b350f39d1c3f9838') in 0.024130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.075407 seconds.
+  path: Assets/Prefabs/extra.prefab
+  artifactKey: Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/extra.prefab using Guid(f578a24ee65f946429559b0aa5df4572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5fd812c4c51a2d2908f5b4163965f3') in 0.015677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020864 seconds.
+  path: Assets/Prefabs/Pivot.prefab
+  artifactKey: Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pivot.prefab using Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f96dc281f39116f5b2f25b4b1cb8d9') in 0.013546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.038650 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad89b6b3cd38f29def31d1c2dfdfef3') in 0.015607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.267009 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914a0effdf9c108f930e6a48d606cc67') in 0.005807 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 318.1 MB.
+System memory in use after: 318.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3609.
+Total: 3.216069 ms (FindLiveObjects: 0.337203 ms CreateObjectMapping: 0.179787 ms MarkObjects: 2.674671 ms  DeleteObjects: 0.022895 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.673059 seconds.
+  path: Assets/Prefabs/Pylon5.prefab
+  artifactKey: Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon5.prefab using Guid(ea42f19471a324813abf0a0fa56bd5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b99b8bf396807123ee300a93685edae') in 0.133938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.147639 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1e4e481e5ce51ed88155f2f64563df') in 0.029146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.356435 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdb6b81f34c6d8ae0c1cba480db00a1') in 0.028225 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 318.7 MB.
+System memory in use after: 318.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3613.
+Total: 2.464801 ms (FindLiveObjects: 0.270621 ms CreateObjectMapping: 0.136213 ms MarkObjects: 2.037137 ms  DeleteObjects: 0.019852 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.419340 seconds.
+  path: Assets/Prefabs/Pylon7.prefab
+  artifactKey: Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pylon7.prefab using Guid(0a3a6ff6fc3df4888a89116f8c895850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1c90638a7a65312e85686691faf705') in 0.078335 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.357 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2950 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 319.3 MB.
+System memory in use after: 319.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3617.
+Total: 3.256824 ms (FindLiveObjects: 0.358377 ms CreateObjectMapping: 0.170805 ms MarkObjects: 2.665208 ms  DeleteObjects: 0.061164 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004707 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.551 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 326.6 MB.
+System memory in use after: 326.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3774.
+Total: 2.663077 ms (FindLiveObjects: 0.273493 ms CreateObjectMapping: 0.128399 ms MarkObjects: 2.151715 ms  DeleteObjects: 0.108363 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.439 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 326.8 MB.
+System memory in use after: 327.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3777.
+Total: 4.783745 ms (FindLiveObjects: 0.482748 ms CreateObjectMapping: 0.301281 ms MarkObjects: 3.877130 ms  DeleteObjects: 0.120901 ms)
+
